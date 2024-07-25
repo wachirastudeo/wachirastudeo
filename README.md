@@ -7,7 +7,7 @@ Web Developer
 I have extensive experience in designing and developing WordPress websites, including layout adjustments, SEO optimization, and performance tracking. I am skilled in PHP, frontend (HTML, CSS, JavaScript), and backend development with PHP and Node.js. I have strong knowledge of SEO best practices and techniques. Additionally, I handle server setups and ensure secure and fast website access.
 
 * 🌍  I'm based in Trat
-* 🖥️  See my portfolio at [portfolio]([http://github.com/wachirastudeo](https://wachirastudeo.github.io/))
+* 🖥️  See my portfolio at [portfolio](https://wachirastudeo.github.io)
 * ✉️  You can contact me at [wachirastudeo@gmail.com](mailto:wachirastudeo@gmail.com)
 * 🧠  I'm learning PHP Laravel, Reactjs, Node.js, MangoDB ,Wordpress
 
