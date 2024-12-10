@@ -9,7 +9,7 @@ I have extensive experience in designing and developing WordPress websites, incl
 * 🌍  I'm based in Trat
 * 🖥️  See my portfolio at [portfolio](https://wachirastudeo.github.io)
 * ✉️  You can contact me at [wachirastudeo@gmail.com](mailto:wachirastudeo@gmail.com)
-* 🧠  I'm learning PHP Laravel, Reactjs, Node.js, MangoDB ,Wordpress
+* 🧠  I'm learning PHP , Laravel,JavaScript, Reactjs, Node.js,Vue, MangoDB ,Wordpress ,Bun, Elysia, SQL , NoSql ,linux ,
 
 ### Skills
 
